@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Om Sangamwar</h1>
-<h3 align="center">A data Science Enthusiast</h3>
+<h4 align="center">A final-year undergraduate pursuing a B.Tech in Computer Science and Engineering with a specialization in Data Science from Ramdeobaba College of Engineering and Management.</h4>
 
 - 👨‍💻 All of my projects are available at [https://omsangamwarportfolio.netlify.app/]
 
