@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Om Sangamwar</h1>
 <h3 align="center">A data Science Enthusiast</h3>
 
-- 👨‍💻 All of my projects are available at [https://om-sangamwar.netlify.app/](https://om-sangamwar.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://omsangamwarportfolio.netlify.app/]
 
 - 📫 How to reach me **omsangamwar@gmail.com**
 
