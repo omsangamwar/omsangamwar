@@ -2,14 +2,14 @@
 <h3 align="center">AI Engineer @ GlobalLogic (Hitachi Group) | Building with LLMs, RAG & Generative AI</h3>
 
 <p align="center">
-I design and ship production-grade Generative AI systems — RAG pipelines, LLM-powered agents, and NLP-driven enterprise chatbots. Currently working on <b>Amplify.ai</b>, an enterprise AI chatbot serving B2B and B2C users.
+I design and ship production-grade Generative AI systems — RAG pipelines, LLM-powered agents, and NLP-driven enterprise chatbots. 
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/omsangamwar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:omsangamwar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://omsangamwarportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" /></a>
-  <a href="https://drive.google.com/file/d/10A5zuXNhqHFFuOXQkvfqpgtF2LCMzuPa/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
+  <!-- <a href="https://omsangamwarportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" /></a> -->
+  <a href="[https://drive.google.com/file/d/10A5zuXNhqHFFuOXQkvfqpgtF2LCMzuPa/view?usp=sharing](https://drive.google.com/file/d/1RYk4bx0lzn7FA-akKVhSdvCo1BbU_Cp7/view?usp=sharing)"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
 </p>
 
 ---
@@ -24,14 +24,6 @@ I design and ship production-grade Generative AI systems — RAG pipelines, LLM-
 - 📫 Reach me at **omsangamwar@gmail.com**
 
 ---
-
-### 🧩 Featured Projects
-
-**[MediSense — Clinical Document Assistant](https://github.com/omsangamwar)**
-RAG pipeline over patient records and discharge summaries using GPT-4 and FAISS semantic search, deployed on Azure App Service with a Streamlit dashboard — cut manual document lookup time by ~60%.
-
-**[WhatsApp Visa Application Automation](https://github.com/omsangamwar/visa-application-bot-n8n/tree/main)**
-End-to-end WhatsApp visa application system built with n8n and Twilio, using LlamaIndex + a Groq-hosted LLM for automated document parsing and a human-in-the-loop payment confirmation flow.
 
 ---
 
@@ -58,25 +50,10 @@ End-to-end WhatsApp visa application system built with n8n and Twilio, using Lla
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=omsangamwar&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omsangamwar&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omsangamwar&hide_border=true" />
-</p>
-
 ---
 
 ### 🌐 Connect with me
 
 <p align="left">
 <a href="https://linkedin.com/in/omsangamwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omsangamwar" height="30" width="40" /></a>
-<a href="https://kaggle.com/omsangamwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="omsangamwar" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/sangamwarop/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sangamwarop" height="30" width="40" /></a>
 </p>
-
-<p align="center"><i>Thanks for stopping by — feel free to explore my repos or drop a message!</i></p>
