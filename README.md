@@ -9,7 +9,7 @@ I design and ship production-grade Generative AI systems — RAG pipelines, LLM-
   <a href="https://linkedin.com/in/omsangamwar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:omsangamwar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <!-- <a href="https://omsangamwarportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" /></a> -->
-  <a href="[https://drive.google.com/file/d/10A5zuXNhqHFFuOXQkvfqpgtF2LCMzuPa/view?usp=sharing](https://drive.google.com/file/d/1RYk4bx0lzn7FA-akKVhSdvCo1BbU_Cp7/view?usp=sharing)"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/1RYk4bx0lzn7FA-akKVhSdvCo1BbU_Cp7/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
 </p>
 
 ---
